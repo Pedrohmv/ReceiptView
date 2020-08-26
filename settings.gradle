@@ -1,0 +1,3 @@
+include ':receiptview'
+include ':app'
+rootProject.name = "ReceiptView"

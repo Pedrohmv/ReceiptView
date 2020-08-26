@@ -1,0 +1,1 @@
+<img src="https://github.com/Pedrohmv/ReceiptView/blob/master/images/receiptprint.png">
