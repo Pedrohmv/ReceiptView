@@ -1,6 +1,6 @@
 <img src="https://github.com/Pedrohmv/ReceiptView/blob/master/images/receiptprint.png">
 
-##Setup
+## Setup
 
 Add Jitpack repository to your root build.gradle
 ```gradle
