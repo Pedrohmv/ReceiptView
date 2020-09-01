@@ -7,4 +7,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="ReceiptText" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
 </resources>

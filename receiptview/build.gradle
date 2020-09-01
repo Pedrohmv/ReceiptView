@@ -7,7 +7,7 @@ group = 'com.github.Pedrohmv'
 
 android {
     compileSdkVersion 29
-    buildToolsVersion "30.0.1"
+    buildToolsVersion "30.0.2"
 
     defaultConfig {
         minSdkVersion 14
